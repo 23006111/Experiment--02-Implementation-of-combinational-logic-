@@ -1,7 +1,10 @@
-# Experiment--02-Implementation-of-combinational-logic
+NAME:RAMYA P
+REF NO:23006111
 
-Name:Ramya P
-Ref No:23006111
+
+# Experiment--02 Implementation of combinational logic
+
+
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -34,11 +37,12 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
-## RTL realization
-![image](https://github.com/23006111/Experiment--02-Implementation-of-combinational-logic-/assets/145981696/88d33729-d6c0-4797-a84d-601e5912ebe7)
-![image](https://github.com/23006111/Experiment--02-Implementation-of-combinational-logic-/assets/145981696/5ef5c40d-9d07-47fd-9447-3b58c45553cd)
-
-
+## RTL realization:
+![image](https://github.com/23006111/Experiment--02-Implementation-of-combinational-logic-/assets/145981696/c4156a49-8f22-4d99-81b6-6521f0970acd)
+## Truth Table:
+![image](https://github.com/23006111/Experiment--02-Implementation-of-combinational-logic-/assets/145981696/69ed9582-a61d-4bc2-94a2-0f614504a401)
+## Timing line:
+![image](https://github.com/23006111/Experiment--02-Implementation-of-combinational-logic-/assets/145981696/c0edea06-8204-4a21-bf7e-af5ecfbf4bec)
 
 
 ## Result:
