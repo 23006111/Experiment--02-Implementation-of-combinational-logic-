@@ -1,5 +1,5 @@
-NAME:RAMYA P
-REF NO:23006111
+## NAME:RAMYA P
+## REF NO:23006111
 
 
 # Experiment--02 Implementation of combinational logic
@@ -68,7 +68,9 @@ endmodule
 ## Truth Table:
 ![image](https://github.com/23006111/Experiment--02-Implementation-of-combinational-logic-/assets/145981696/69ed9582-a61d-4bc2-94a2-0f614504a401)
 ## Timing line:
-![image](https://github.com/23006111/Experiment--02-Implementation-of-combinational-logic-/assets/145981696/c0edea06-8204-4a21-bf7e-af5ecfbf4bec)
+
+![image](https://github.com/23006111/Experiment--02-Implementation-of-combinational-logic-/assets/145981696/379c0fed-1e82-44da-99f2-28918ae54dad)
+
 
 
 ## Result:
